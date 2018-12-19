@@ -1,0 +1,64 @@
+p{margin: 0;}
+
+.navbar{
+    margin-bottom: 0;
+}
+
+.marquee-text{
+    color:green;
+}
+
+.btn{
+    color:white;
+    border-radius:20px;
+    background-color:orange;
+    float:right;
+    width:100px;
+
+}
+
+
+.banner-rap{
+    background-image:url('../images/girl.jpg');
+    background-repeat:no-repeat;
+}
+.banner-wrapper{
+    height: 40vh;
+}
+
+
+.banner-wrapper .banner-image{
+    width:auto;
+	height:100%;
+    background-image:url('../images/ap.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+    overflow:hidden;
+    display: block;
+}
+.marquee-body
+{
+    background-color: #eee;
+    height: 30vh;
+}
+.marquee-text{ font-size: 2em; padding: 10px;font-variant: small-caps;}
+.body-black{background-color: #000; color: #fff}
+.body-black p { padding: 100px; text-align: center;}
+.body-grey{background-color: #cccccc ;}
+.body-grey p { padding: 100px; text-align: center}
+.footer-main{background-color:#b7b4b4;padding: 100px; }
+.footer-main p {text-align: center;}
+.center{text-align: center}
+.width-100{width: 100%}
+.box{
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    3px 3px 5px 6px #ccc;  /* Firefox 3.5 - 3.6 */
+  box-shadow:         3px 3px 5px 6px #ccc;  
+}
+.input-group{margin: 10px}
+
+footer{
+    color:blue;
+    text-align:center;
+
+}
